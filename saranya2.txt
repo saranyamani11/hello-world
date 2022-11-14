@@ -1,0 +1,1 @@
+Developer will push something in Github and Jenkins will detect that via Webhook and trgger a build autmatically.
