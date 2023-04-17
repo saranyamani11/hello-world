@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1
+#syntax=docker/dockerfile:1
 # webhook added   
 FROM node:18-alpine
 WORKDIR /app
